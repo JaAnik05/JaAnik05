@@ -1,5 +1,6 @@
-# Welcome to my profile 👋, It's JahanGir Alam Anik
-## Web Designer
+# Welcome to my profile 
+## 👋, It's JahanGir Alam Anik
+### Web Designer
 ![Web Designer](https://i.postimg.cc/QdTZk5Jg/4884846.png)
 
 I am a font-end web designer. i have a passion for learning new things & sharing my knowledge with others. I love to create design professionally & creatively. I like to do work by strategic and goal oriented.
